@@ -43,7 +43,6 @@ const SignUp = () => {
       createUserWithEmailAndPassword(email, password);
    }
    return (
-     <div>
        <div className="form-container">
          <div>
            <h2 className="form-title">Sign Up</h2>
@@ -86,7 +85,6 @@ const SignUp = () => {
            </p>
          </div>
        </div>
-     </div>
    );
 };
 
