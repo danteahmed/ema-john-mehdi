@@ -30,3 +30,12 @@
    background: rgba(255, 153, 0, 0.3);
 
 }
+.pagination button{
+   margin-right: 10px;
+   background-color: white;
+   border: 1px solid blue;
+}
+.pagination .selected{
+   background-color: cornflowerblue;
+   color: white;
+}
